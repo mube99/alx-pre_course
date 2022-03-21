@@ -1,5 +1,5 @@
 # -*- mode: gitignore; -*-
-*
+*~
 \#*\#
 /.emacs.desktop
 /.emacs.desktop.lock
@@ -42,4 +42,4 @@ flycheck_*.el
 .projectile
 
 # directory configuration
-.dir-locals.el
+.dir-locals.el1
